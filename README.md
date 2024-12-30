@@ -1,2 +1,15 @@
-# projeto_pintrest
- projeto de site replica do pintrest feita utilizando flask
+# Projeto Pintrest
+
+## Descrição
+
+## Processo desenvolvimento
+
+## Funcionalidades
+
+## Problemas e soluções
+
+## Tecnologias utilizadas
+
+## Como rodar o projeto na sua maquina 
+
+## Licença 

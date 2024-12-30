@@ -7,7 +7,7 @@ from Fake_pintrest_projeto.models import Usuario
 class FormLogin(FlaskForm):
     email = StringField('Email', validators=[DataRequired(), Email()])
     senha = PasswordField('Senha', validators=[DataRequired(), Length(min=6)])
-    botao = SubmitField('Fazer Login')
+    botao_confirmacao = SubmitField('Fazer Login')
 
 class FormCriarConta(FlaskForm):
     email = StringField('Email', validators=[DataRequired(), Email()])

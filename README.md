@@ -13,7 +13,7 @@ O Fake Pinterest é destinado a qualquer pessoa interessada em descobrir e compa
 O que diferencia o Fake Pinterest de outras plataformas similares é a sua simplicidade e foco na experiência do usuário. Utilizando o framework Flask, o projeto é desenvolvido de forma modular e leve, permitindo atualizações e melhorias contínuas sem complicações. Além disso, a interface responsiva garante que os usuários tenham uma experiência fluida, independentemente do dispositivo que estejam utilizando.
 
 ### Futuras Melhorias
-Planejamos continuar expandindo as funcionalidades do Fake Pinterest, incluindo a possibilidade de criar álbuns temáticos, realizar buscas avançadas por imagens e implementar um sistema de curadoria de conteúdo para destacar as melhores fotos da comunidade. Nosso compromisso é sempre ouvir o feedback dos usuários e evoluir a plataforma para atender às suas necessidades e expectativas.
+Planejo continuar expandindo as funcionalidades do Fake Pinterest, incluindo a possibilidade de criar álbuns temáticos, realizar buscas avançadas por imagens e implementar um sistema de curadoria de conteúdo para destacar as melhores fotos da comunidade. Nosso compromisso é sempre ouvir o feedback dos usuários e evoluir a plataforma para atender às suas necessidades e expectativas.
 
 ## Processo de Desenvolvimento
 O desenvolvimento deste projeto foi dividido em várias etapas:

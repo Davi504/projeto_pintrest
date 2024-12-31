@@ -38,7 +38,7 @@ Tive dificuldade para entender o Flask por ser um framework novo para mim. Embor
 A simplicidade do Flask facilitou a resolução dos problemas iniciais. Investi tempo em estudar a documentação e as melhores práticas para organizar o projeto de forma eficiente.
 
 ## Tecnologias Utilizadas
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,flask,)](https://skillicons.dev)
 
 ## Como Rodar o Projeto na Sua Máquina
 1. Clone este repositório:

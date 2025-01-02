@@ -28,7 +28,7 @@ O desenvolvimento deste projeto foi dividido em várias etapas:
 - Upload de imagens.
 - Sistema de login e registro de usuários.
 - Interface responsiva.
-- Capacidade de curtir e comentar nas fotos (nova funcionalidade).
+
 
 ## Problemas e Soluções
 ### Problema:

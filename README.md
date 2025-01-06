@@ -3,6 +3,11 @@
 ## Descrição
 O Fake Pinterest é uma plataforma inovadora de compartilhamento de imagens inspirada no famoso Pinterest. Este projeto foi criado com o intuito de fornecer aos usuários um espaço virtual onde possam expressar suas inspirações visuais e compartilhar suas fotos com uma comunidade diversificada.
 
+## Video da aplicação rodando
+
+[Link do video](https://youtu.be/3N9CHDtsZCs?si=Z6htgXkDADNfETsx)
+
+
 ### Objetivo
 O principal objetivo do Fake Pinterest é criar uma interface amigável e intuitiva que permita aos usuários fazer upload de imagens facilmente, criar perfis personalizados e interagir com outros membros da comunidade. A plataforma visa ser um local de criatividade e inspiração, onde pessoas de todas as idades e interesses podem explorar e compartilhar suas paixões visuais.
 
